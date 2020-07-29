@@ -20873,7 +20873,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 0:
 /*!****************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fproject&absolutePagePath=%2FUsers%2Fryosuzuki%2FDocuments%2Fryosuzuki%2Fhomepage%2Fpages%2Fproject.js ***!
   \****************************************************************************************************************************************************/
@@ -20896,5 +20896,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=project.js.map

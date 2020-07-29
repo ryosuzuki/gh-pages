@@ -13356,7 +13356,7 @@ function (_React$Component) {
         style: {
           margin: '5px 0'
         }
-      }, "Dynamic Shape Construction and Transformation with Collective Elements")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("strong", null, "Ryo Suzuki")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Full Papers"), projects.map(function (project) {
+      }, "Dynamic Shape Construction and Transformation with Collective Elements")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("strong", null, "Ryo Suzuki"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "PhD Dissertation of the University of Colorado Boulder", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null)))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Full Papers"), projects.map(function (project) {
         return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
           className: "project ui vertical segment stackable grid",
           "data-id": project.id
@@ -13511,7 +13511,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 2:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fryosuzuki%2FDocuments%2Fryosuzuki%2Fhomepage%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************************/
@@ -13534,5 +13534,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js","styles"]]]);
+},[[2,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map
