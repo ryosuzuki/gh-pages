@@ -15,10 +15,10 @@ module.exports = {"bodyContent":"**Program Committee**: TEI 2021\n\n**Organizer:
 /*!****************************************!*\
   !*** ./content/output/experience.json ***!
   \****************************************/
-/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, default */
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, default */
 /***/ (function(module) {
 
-module.exports = [{"period":"August, 2015 --- August, 2020","role":"RA","logo":"cu-boulder.png","institute":{"name":"CU Boulder","url":"https://colorado.edu"},"lab":{"name":"THING Lab","url":"https://www.colorado.edu/atlas/thing-lab"},"advisors":[{"name":"Daniel Lightinger","url":"http://leithinger.com/"},{"name":"Mark D. Gross","url":"http://mdgross.net/"},{"name":"Tom Yeh","url":"http://tomyeh.info/"}]},{"period":"May, 2020 --- August, 2020","role":"Intern","logo":"microsoft.png","institute":{"name":"Microsoft Research","url":"https://www.microsoft.com/en-us/research/"},"lab":{"name":"EPIC Group","url":"https://www.microsoft.com/en-us/research/group/epic/"},"advisors":[{"name":"Mar Gonzalez Franco","url":"https://www.microsoft.com/en-us/research/people/margon/"},{"name":"Eyal Ofek","url":"https://www.microsoft.com/en-us/research/people/eyalofek/"},{"name":"Ken Hinckley","url":"https://www.microsoft.com/en-us/research/people/kenh/"}]},{"period":"May, 2019 --- August, 2019","role":"Intern","logo":"adobe.png","institute":{"name":"Adobe Research","url":"https://colorado.edu"},"lab":{"name":"Creative Intelligence Lab","url":"https://research.adobe.com/"},"advisors":[{"name":"Rubaiat Habib","url":"https://rubaiathabib.me/"},{"name":"Li-Yi Wei","url":"https://www.liyiwei.org/"},{"name":"Stephen Diverdi","url":"http://www.stephendiverdi.com/"},{"name":"Danny Kaufman","url":"http://dannykaufman.io/"}]},{"period":"December, 2017 --- October, 2018","role":"Intern","logo":"ut.png","institute":{"name":"University of Tokyo","url":"https://colorado.edu"},"lab":{"name":"ERATO UIN","url":"http://www.jst.go.jp/erato/kawahara"},"advisors":[{"name":"Yasuaki Kakehi","url":"http://xlab.iii.u-tokyo.ac.jp/"},{"name":"Yoshihiro Kawahara","url":"http://www.akg.t.u-tokyo.ac.jp/"},{"name":"Ryuma Niiyama","url":"https://scholar.google.co.jp/citations?user=0NMf5sgAAAAJ&hl=en"}]},{"period":"May, 2016 --- August, 2016","role":"Intern","logo":"uc-berkeley.png","institute":{"name":"UC Berkeley","url":null},"lab":{"name":"BiD Lab","url":"http://bid.berkeley.edu/"},"advisors":[{"name":"Bjoern Hartmann","url":"http://people.eecs.berkeley.edu/~bjoern/"}]},{"period":"May, 2015 --- August, 2015","role":"Intern","logo":"stanford-2.png","institute":{"name":"Stanford University","url":"https://stanford.edu"},"lab":{"name":"HCI Group","url":"http://hci.stanford.edu/"},"advisors":[{"name":"Michael Bernstein","url":"http://hci.stanford.edu/msb/"}]},{"period":"October, 2014 --- May, 2015","role":"RA","logo":"ut.png","institute":{"name":"University of Tokyo","url":null},"lab":{"name":"IIS Lab","url":"http://iis-lab.org/"},"advisors":[{"name":"Koji Yatani","url":"http://iis-lab.org/member/koji-yatani/"}]},{"period":"December, 2014 --- March, 2015","role":"Intern","logo":"aist.png","institute":{"name":"AIST","url":null},"lab":{"name":"Media Interaction","url":"https://staff.aist.go.jp/m.goto/MIG/index-j.html"},"advisors":[{"name":"Jun Kato","url":"http://junkato.jp/"}]}];
+module.exports = [{"period":"August, 2020 --- Current","role":"Assistant Professor","logo":"ucalgary.png","institute":{"name":"University of Calgary","url":"https://www.ucalgary.ca/"},"lab":{"name":"HCI Group","url":"https://ilab.cpsc.ucalgary.ca/"},"advisors":[{"name":"Assistant Professor","url":"https://science.ucalgary.ca/computer-science"}]},{"period":"August, 2015 --- August, 2020","role":"RA","logo":"cu-boulder.png","institute":{"name":"CU Boulder","url":"https://colorado.edu"},"lab":{"name":"THING Lab","url":"https://www.colorado.edu/atlas/thing-lab"},"advisors":[{"name":"Daniel Lightinger","url":"http://leithinger.com/"},{"name":"Mark D. Gross","url":"http://mdgross.net/"},{"name":"Tom Yeh","url":"http://tomyeh.info/"}]},{"period":"May, 2020 --- August, 2020","role":"Intern","logo":"microsoft.png","institute":{"name":"Microsoft Research","url":"https://www.microsoft.com/en-us/research/"},"lab":{"name":"EPIC Group","url":"https://www.microsoft.com/en-us/research/group/epic/"},"advisors":[{"name":"Mar Gonzalez Franco","url":"https://www.microsoft.com/en-us/research/people/margon/"},{"name":"Eyal Ofek","url":"https://www.microsoft.com/en-us/research/people/eyalofek/"},{"name":"Mike Sinclair","url":"https://www.microsoft.com/en-us/research/people/sinclair/"},{"name":"Ken Hinckley","url":"https://www.microsoft.com/en-us/research/people/kenh/"}]},{"period":"May, 2019 --- August, 2019","role":"Intern","logo":"adobe.png","institute":{"name":"Adobe Research","url":"https://colorado.edu"},"lab":{"name":"Creative Intelligence Lab","url":"https://research.adobe.com/"},"advisors":[{"name":"Rubaiat Habib","url":"https://rubaiathabib.me/"},{"name":"Li-Yi Wei","url":"https://www.liyiwei.org/"},{"name":"Stephen Diverdi","url":"http://www.stephendiverdi.com/"},{"name":"Danny Kaufman","url":"http://dannykaufman.io/"}]},{"period":"December, 2017 --- October, 2018","role":"Intern","logo":"ut.png","institute":{"name":"University of Tokyo","url":"https://colorado.edu"},"lab":{"name":"ERATO UIN","url":"http://www.jst.go.jp/erato/kawahara"},"advisors":[{"name":"Yasuaki Kakehi","url":"http://xlab.iii.u-tokyo.ac.jp/"},{"name":"Yoshihiro Kawahara","url":"http://www.akg.t.u-tokyo.ac.jp/"},{"name":"Ryuma Niiyama","url":"https://scholar.google.co.jp/citations?user=0NMf5sgAAAAJ&hl=en"}]},{"period":"May, 2016 --- August, 2016","role":"Intern","logo":"uc-berkeley.png","institute":{"name":"UC Berkeley","url":null},"lab":{"name":"BiD Lab","url":"http://bid.berkeley.edu/"},"advisors":[{"name":"Bjoern Hartmann","url":"http://people.eecs.berkeley.edu/~bjoern/"}]},{"period":"May, 2015 --- August, 2015","role":"Intern","logo":"stanford-2.png","institute":{"name":"Stanford University","url":"https://stanford.edu"},"lab":{"name":"HCI Group","url":"http://hci.stanford.edu/"},"advisors":[{"name":"Michael Bernstein","url":"http://hci.stanford.edu/msb/"}]},{"period":"October, 2014 --- May, 2015","role":"RA","logo":"ut.png","institute":{"name":"University of Tokyo","url":null},"lab":{"name":"IIS Lab","url":"http://iis-lab.org/"},"advisors":[{"name":"Koji Yatani","url":"http://iis-lab.org/member/koji-yatani/"}]},{"period":"December, 2014 --- March, 2015","role":"Intern","logo":"aist.png","institute":{"name":"AIST","url":null},"lab":{"name":"Media Interaction","url":"https://staff.aist.go.jp/m.goto/MIG/index-j.html"},"advisors":[{"name":"Jun Kato","url":"http://junkato.jp/"}]}];
 
 /***/ }),
 
@@ -12845,7 +12845,8 @@ function (_React$Component) {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         id: "updates",
         className: "ui relaxed divided list"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Research Experience"), _content_output_experience_json__WEBPACK_IMPORTED_MODULE_7__.map(function (item) {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Employments"), _content_output_experience_json__WEBPACK_IMPORTED_MODULE_7__.map(function (item) {
+        var advisors = item.advisors || [];
         return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
           className: "item",
           style: {
@@ -12868,7 +12869,7 @@ function (_React$Component) {
           className: "content"
         }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
           className: "ui list"
-        }, item.advisors.map(function (advisor) {
+        }, advisors.map(function (advisor) {
           return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
             className: "item"
           }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
@@ -12968,7 +12969,7 @@ function (_React$Component) {
   }, {
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("title", null, "Ryo Suzuki | University of Colorado Boulder"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("title", null, "Ryo Suzuki | University of Calgary Assistant Professor"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui stackable grid"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "one wide column"
@@ -13145,7 +13146,7 @@ function (_React$Component) {
         style: {
           fontSize: '1.5rem'
         }
-      }, "University of Colorado Boulder"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("video", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Calgary"), ", Assistant Professor in Computer Science"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("video", {
         id: "top-video",
         poster: "/static/posters/top.png",
         preload: "metadata",
@@ -13162,10 +13163,29 @@ function (_React$Component) {
         style: {
           fontSize: '1.3rem'
         }
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "I am a Ph.D. candidate at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "I am an Assistant Professor at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://ucalgary.ca",
+        target: "_blank"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Calgary")), " in the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://science.ucalgary.ca/computer-science",
+        target: "_blank"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Department of Computer Science")), ", starting Fall 2020. I am part of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://ilab.cpsc.ucalgary.ca/",
+        target: "_blank"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Interactions Lab")), ", the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "HCI Group"), " at UCalgary."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        class: "ui segment",
+        style: {
+          borderColor: '#191970'
+        }
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+        style: {
+          marginBottom: '-5px',
+          color: '#191970'
+        }
+      }, "I am actively looking for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "PhDs, masters, postdocs, or interns"), ", who are interested in joining or collaborating with us, across disciplines (e.g., ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Industrial Design, Mechanical Engineering, Material Science, Electrical Engineering, Architectural Design, and Computer Science"), "). If you are interested, please feel free to send me an email. We could start from some possible collaborative projects. :)")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "My research interest lies on the intersection between ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction (HCI)"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Robotics"), ". During my PhD, I have developed novel ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "shape-changing interfaces"), " that leverage ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "swarm and soft robots at various scales"), " (i.e., from mm- to m-scale). My research explores how we can make the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "physical environment more adaptive"), " with context-aware swarm robotic assistant that can be embedded into our everyday life."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Previously, I was a PhD student at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "https://www.colorado.edu/cs/",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Colorado Boulder")), ", Department of Computer Science, advised by ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Colorado Boulder")), ", advised by ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "http://leithinger.com/",
         target: "_blank"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Daniel Leithinger")), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
@@ -13177,7 +13197,7 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "THING Lab")), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "http://hcc.colorado.edu/",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction Group"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "My research interest lies on the intersection between ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction (HCI)"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Robotics"), ". During my PhD, I have developed novel ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "shape-changing interfaces"), " that leverage ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "swarm and soft robots at various scales"), " (i.e., from mm- to m-scale). My research explores how we can make the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "physical environment more adaptive"), " with context-aware swarm robotic assistant that can be embedded into our everyday life.")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction Group")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui horizontal list",
         style: {
           marginTop: '20px'
