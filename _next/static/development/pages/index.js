@@ -13223,7 +13223,10 @@ function (_React$Component) {
           marginBottom: '-5px',
           color: '#191970'
         }
-      }, "I am actively looking for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "PhDs, masters, postdocs, or interns"), ", who are interested in joining or collaborating with us, across disciplines (e.g., ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Industrial Design, Mechanical Engineering, Material Science, Electrical Engineering, Architectural Design, and Computer Science"), "). If you are interested, please feel free to send me an email. We could start from some possible collaborative projects. :)")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "My research interest lies on the intersection at ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction (HCI)"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Robotics"), ". I lead ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Programmable Reality Lab"), " at the University of Calgary, where we try to blend digital and physical worlds by exploring novel interactions for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "AR/VR, tangible, and shape-changing interfaces"), "."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Previously, I was a PhD student at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, "I am actively looking for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "PhDs, masters, postdocs, or interns"), ", who are interested in joining or collaborating with us, across disciplines (e.g., ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Industrial Design, Mechanical Engineering, Material Science, Electrical Engineering, Architectural Design, and Computer Science"), "). If you are interested, please feel free to send me an email. We could start from some possible collaborative projects. :)")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "My research interest lies on the intersection at ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction (HCI)"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Robotics"), ". I direct ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://programmable-reality-lab.github.io/",
+        target: "_blank"
+      }, "Programmable Reality Lab")), " at the University of Calgary, where we try to blend digital and physical worlds by exploring novel interactions for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "AR/VR, tangible, and shape-changing interfaces"), "."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Previously, I was a PhD student at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "https://www.colorado.edu/cs/",
         target: "_blank"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Colorado Boulder")), ", advised by ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
@@ -13323,7 +13326,13 @@ function (_React$Component) {
         }
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("i", {
         className: "fab fa-linkedin-in fa-fw"
-      }), "ryosuzuki")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }), "ryosuzuki")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        id: "lab",
+        href: "https://programmable-reality-lab.github.io/",
+        target: "_blank"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Programmable Reality Lab"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
+        src: "/static/images/lab-1.jpg"
+      })))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "one wide column"
       }));
     }
