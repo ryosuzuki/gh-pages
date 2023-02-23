@@ -55,6 +55,40 @@ module.exports = [{"date":"2023-01-19","text":"Five Late-Breaking Work papers we
 
 /***/ }),
 
+/***/ "./content/output/posters sync recursive ^\\.\\/.*\\.json$":
+/*!****************************************************!*\
+  !*** ./content/output/posters sync ^\.\/.*\.json$ ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./ultrabots.json": "./content/output/posters/ultrabots.json"
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) { // check for number or string
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return id;
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = "./content/output/posters sync recursive ^\\.\\/.*\\.json$";
+
+/***/ }),
+
 /***/ "./content/output/posters.json":
 /*!*************************************!*\
   !*** ./content/output/posters.json ***!
@@ -63,6 +97,17 @@ module.exports = [{"date":"2023-01-19","text":"Five Late-Breaking Work papers we
 /***/ (function(module) {
 
 module.exports = [{"author":"Mehrad Faridan, Marcus Friedel, Ryo Suzuki","title":"UltraBots: Large-Area Mid-Air Haptics for VR with Robotically Actuated Ultrasound Transducers","pdf":"uist-2022-ultrabots.pdf","booktitle":"Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software & Technology","series":"UIST '22 SIC","year":2022,"location":"Bend, Oregon","numpages":3,"doi":"xxx/xxx","publisher":"ACM","address":"New York, NY, USA","pages":"1--3"},{"author":"Marcus Friedel, Ehud Sharlin, Ryo Suzuki","title":"HapticLever: Kinematic Force Feedback using a 3D Pantograph","pdf":"uist-2022-hapticlever.pdf","booktitle":"Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software & Technology","series":"UIST '22 Poster","year":2022,"location":"Bend, Oregon","numpages":3,"doi":"xxx/xxx","publisher":"ACM","address":"New York, NY, USA","pages":"1--3"},{"author":"Ryo Suzuki, Rubaiat Habib, Li-Yi Wei, Stephen Diverdi, Wilmot Li, Daniel Leithinger","title":"RealitySketch: Augmented Reality Sketching for Real-time Embedded and Responsive Visualiza- tions","pdf":"siggraph-asia-2021-realitysketch.pdf","booktitle":"Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software & Technology","series":"SIGGRAPH Asia '21 Real-time Live!","year":2021,"location":"Tokyo, Japan","numpages":1,"doi":"xxx/xxx","publisher":"ACM","address":"New York, NY, USA","pages":"1--1"},{"author":"Samin Farajian, Hiroki Kaimoto, Ryo Suzuki","title":"Swarm Fabrication: Reconfigurable 3D Printers and Drawing Plotters Made of Swarm Robots","pdf":"uist-2021-swarm-fabrication.pdf","booktitle":"Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software & Technology","series":"UIST '21 SIC","year":2021,"location":"New Orleans, Louisiana, USA","numpages":2,"doi":"xxx/xxx","publisher":"ACM","address":"New York, NY, USA","pages":"1--2"},{"author":"Martin Nisser, Leon Cheng, Yashaswini Makaram, Ryo Suzuki, Stefanie Mueller","title":"Programmable Polarities: Actuating Interactive Prototypes withProgrammable Electromagnets","pdf":"uist-2021-programmable.pdf","booktitle":"Adjunct Proceedings of the 34th Annual ACM Symposium on User Interface Software & Technology","series":"UIST '21 Demo","year":2021,"isbn":"978-1-4503-4656-6","location":"New Orleans, Louisiana, USA","pages":"2951--2958","numpages":2,"doi":"xxx/xxx","acmid":3053187,"publisher":"ACM","address":"New York, NY, USA","keywords":"modular self-reconfigurable robots"},{"author":"Ryo Suzuki,","title":"Collective Shape-changing Interfaces","pdf":"uist-2019-collective.pdf","booktitle":"Adjunct Proceedings of the 32nd Annual ACM Symposium on User Interface Software & Technology","series":"UIST '19 Doctoral Consortium","year":2019,"isbn":"978-1-4503-4656-6","location":"New Orleans, Louisiana, USA","pages":"2951--2958","numpages":2,"doi":"xxx/xxx","acmid":3053187,"publisher":"ACM","address":"New York, NY, USA","keywords":"shape-changing interfaces"},{"author":"Ryo Suzuki, Ryosuke Nakayama, Dan Liu, Yasuaki Kakehi, Mark D. Gross, and Daniel Leithinger,","title":"LiftTiles: Modular and Reconfigurable Room-scale Shape Displays through Retractable Inflatable Actuators","pdf":"uist-2019-lift-tiles.pdf","poster":"uist-2019-lift-tiles-poster.pdf","booktitle":"Adjunct Proceedings of the 32nd Annual ACM Symposium on User Interface Software & Technology","series":"UIST '19 Adjunct","year":2019,"isbn":"978-1-4503-4656-6","location":"New Orleans, Louisiana, USA","pages":"2951--2958","numpages":2,"doi":"xxx/xxx","acmid":3053187,"publisher":"ACM","address":"New York, NY, USA","keywords":"inflatables, shape-changing interfaces,large-scale interactions"},{"author":"Ryo Suzuki, Gustavo Soares, Elena Glassman, Andrew Head, Loris D'Antoni, and Bjoern Hartmann,","title":"Exploring the Design Space of Automatically Synthesized Hints for Introductory Programming Assignments","pdf":"chi-2017-lbw.pdf","poster":"chi-2017-lbw-poster.pdf","booktitle":"Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems","series":"CHI EA '17","year":2017,"isbn":"978-1-4503-4656-6","location":"Denver, Colorado, USA","pages":"2951--2958","numpages":8,"url":"http://doi.acm.org/10.1145/3027063.3053187","doi":"10.1145/3027063.3053187","acmid":3053187,"publisher":"ACM","address":"New York, NY, USA","keywords":"automated feedback, program synthesis, programming education"},{"author":"Stanford Crowd Research Collective","title":"Daemo: A Self-Governed Crowdsourcing Marketplace","pdf":"uist-2015-daemo.pdf","booktitle":"Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology","series":"UIST '15 Adjunct","year":2015,"isbn":"978-1-4503-3780-9","location":"Daegu, Kyungpook, Republic of Korea","pages":"101--102","numpages":2,"url":"http://doi.acm.org/10.1145/2815585.2815739","doi":"10.1145/2815585.2815739","acmid":2815739,"publisher":"ACM","address":"New York, NY, USA","keywords":"crowd research, crowd work., crowdsourcing"},{"author":"Ryo Suzuki,","title":"Toward a Community Enhanced Programming Education","pdf":"chi-2015-workshop.pdf","slide":"chi-2015-workshop-slide.pdf","booktitle":"ACM CHI 2015 Symposium on Emerging Japanese HCI Research Collection","series":"CHI '15 Workshop","year":2015,"location":"Seoul, Korea","publisher":"ACM","address":"New York, NY, USA"},{"author":"Ryo Suzuki,","title":"Interactive and Collaborative Source Code Annotation","pdf":"icse-2015-cumiki.pdf","poster":"icse-2015-cumiki-poster.pdf","booktitle":"Proceedings of the 37th International Conference on Software Engineering - Volume 2","series":"ICSE '15 Poster","year":2015,"location":"Florence, Italy","pages":"799--800","numpages":2,"url":"http://dl.acm.org/citation.cfm?id=2819009.2819173","acmid":2819173,"publisher":"IEEE Press","address":"Piscataway, NJ, USA"},{"author":"Ryo Suzuki,","title":"Network Thresholds and Multiple Equilibria in the Diffusion of Content-Based Platforms","pdf":"wine-2014-network.pdf","poster":"wine-2014-network-poster.pdf","booktitle":"International Conference on Web and Internet Economics","series":"WINE '14 Poster","year":2014,"location":"Beijing, China","publisher":"Springer","address":"New York, NY, USA"}];
+
+/***/ }),
+
+/***/ "./content/output/posters/ultrabots.json":
+/*!***********************************************!*\
+  !*** ./content/output/posters/ultrabots.json ***!
+  \***********************************************/
+/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, pages, conference, pdf, video, embed, slide, acm-dl, arxiv, pageCount, slideCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
+/***/ (function(module) {
+
+module.exports = {"id":"ultrabots","name":"Atelier","description":"Repurposing Expert Crowdsourcing Tasks as Micro-internships","title":"Atelier: Repurposing Expert Crowdsourcing Tasks as Micro-internships","authors":["Ryo Suzuki","Niloufar Salehi","Michelle S. Lam","Juan C. Marroquin","Michael S. Bernstein"],"year":2016,"booktitle":"In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16)","publisher":"ACM, New York, NY, USA","pages":"2645-2656","conference":{"name":"CHI 2016","fullname":"The ACM CHI Conference on Human Factors in Computing Systems (CHI 2016)","url":"https://chi2016.acm.org/wp/"},"pdf":"chi-2016-atelier.pdf","video":"https://www.youtube.com/watch?v=tBojZejtFQo","embed":"https://www.youtube.com/embed/tBojZejtFQo","slide":"chi-2016-atelier-slide.pdf","acm-dl":"http://dl.acm.org/citation.cfm?id=2858121","arxiv":"https://arxiv.org/abs/1602.06634","pageCount":12,"slideCount":56,"bodyContent":"","bodyHtml":"","dir":"content/output/posters","base":"ultrabots.json","ext":".json","sourceBase":"ultrabots.md","sourceExt":".md"};
 
 /***/ }),
 
@@ -162,10 +207,10 @@ module.exports = {"id":"atelier","name":"Atelier","description":"Repurposing Exp
 /*!********************************************************!*\
   !*** ./content/output/projects/chameleon-control.json ***!
   \********************************************************/
-/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, doi, conference, pdf, video, embed, acm-dl, pageCount, slideCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
+/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, doi, conference, pdf, video, embed, arxiv, acm-dl, pageCount, slideCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
 /***/ (function(module) {
 
-module.exports = {"id":"chameleon-control","name":"ChameleonControl","description":"Teleoperating Real Human Surrogates through Mixed Reality Gestural Guidance for Remote Hands-on Classrooms","title":"ChameleonControl: Teleoperating Real Human Surrogates through Mixed Reality Gestural Guidance for Remote Hands-on Classrooms","authors":["Mehrad Faridan","Bheesha Kumari","Ryo Suzuki"],"year":2023,"booktitle":"In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '23)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3544548.3581449","conference":{"name":"CHI 2023","fullname":"The ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)","url":"https://chi2023.acm.org/"},"pdf":"chi-2023-chameleon-control.pdf","video":"https://www.youtube.com/watch?v=VOe3fETd3sk","embed":"https://www.youtube.com/embed/VOe3fETd3sk","acm-dl":"https://dl.acm.org/doi/10.1145/3544548.3581449","pageCount":13,"slideCount":0,"bodyContent":"# Abstract\n\nWe present ChameleonControl, a real-human teleoperation system for scalable remote instruction in hands-on classrooms. In contrast to existing video or AR/VR-based remote hands-on education, ChameleonControl uses a real human as a surrogate of a remote instructor. Building on existing human-based telepresence approaches, we contribute a novel method to teleoperate a human surrogate through synchronized mixed reality hand gestural navigation and verbal communication. By overlaying the remote instructor's virtual hands in the local user's MR view, the remote instructor can guide and control the local user as if they were physically present. This allows the local user/surrogate to synchronize their hand movements and gestures with the remote instructor, effectively teleoperating a real human. We deploy and evaluate our system in classrooms of physiotherapy training, as well as other application domains such as mechanical assembly, sign language and cooking lessons. The study results confirm that our approach can increase engagement and the sense of co-presence, showing potential for the future of remote hands-on classrooms.","bodyHtml":"<h1>Abstract</h1>\n<p>We present ChameleonControl, a real-human teleoperation system for scalable remote instruction in hands-on classrooms. In contrast to existing video or AR/VR-based remote hands-on education, ChameleonControl uses a real human as a surrogate of a remote instructor. Building on existing human-based telepresence approaches, we contribute a novel method to teleoperate a human surrogate through synchronized mixed reality hand gestural navigation and verbal communication. By overlaying the remote instructor's virtual hands in the local user's MR view, the remote instructor can guide and control the local user as if they were physically present. This allows the local user/surrogate to synchronize their hand movements and gestures with the remote instructor, effectively teleoperating a real human. We deploy and evaluate our system in classrooms of physiotherapy training, as well as other application domains such as mechanical assembly, sign language and cooking lessons. The study results confirm that our approach can increase engagement and the sense of co-presence, showing potential for the future of remote hands-on classrooms.</p>\n","dir":"content/output/projects","base":"chameleon-control.json","ext":".json","sourceBase":"chameleon-control.md","sourceExt":".md"};
+module.exports = {"id":"chameleon-control","name":"ChameleonControl","description":"Teleoperating Real Human Surrogates through Mixed Reality Gestural Guidance for Remote Hands-on Classrooms","title":"ChameleonControl: Teleoperating Real Human Surrogates through Mixed Reality Gestural Guidance for Remote Hands-on Classrooms","authors":["Mehrad Faridan","Bheesha Kumari","Ryo Suzuki"],"year":2023,"booktitle":"In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '23)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3544548.3581449","conference":{"name":"CHI 2023","fullname":"The ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)","url":"https://chi2023.acm.org/"},"pdf":"chi-2023-chameleon-control.pdf","video":"https://www.youtube.com/watch?v=VOe3fETd3sk","embed":"https://www.youtube.com/embed/VOe3fETd3sk","arxiv":"https://arxiv.org/abs/2302.11053","acm-dl":"https://dl.acm.org/doi/10.1145/3544548.3581449","pageCount":13,"slideCount":0,"bodyContent":"# Abstract\n\nWe present ChameleonControl, a real-human teleoperation system for scalable remote instruction in hands-on classrooms. In contrast to existing video or AR/VR-based remote hands-on education, ChameleonControl uses a real human as a surrogate of a remote instructor. Building on existing human-based telepresence approaches, we contribute a novel method to teleoperate a human surrogate through synchronized mixed reality hand gestural navigation and verbal communication. By overlaying the remote instructor's virtual hands in the local user's MR view, the remote instructor can guide and control the local user as if they were physically present. This allows the local user/surrogate to synchronize their hand movements and gestures with the remote instructor, effectively teleoperating a real human. We deploy and evaluate our system in classrooms of physiotherapy training, as well as other application domains such as mechanical assembly, sign language and cooking lessons. The study results confirm that our approach can increase engagement and the sense of co-presence, showing potential for the future of remote hands-on classrooms.","bodyHtml":"<h1>Abstract</h1>\n<p>We present ChameleonControl, a real-human teleoperation system for scalable remote instruction in hands-on classrooms. In contrast to existing video or AR/VR-based remote hands-on education, ChameleonControl uses a real human as a surrogate of a remote instructor. Building on existing human-based telepresence approaches, we contribute a novel method to teleoperate a human surrogate through synchronized mixed reality hand gestural navigation and verbal communication. By overlaying the remote instructor's virtual hands in the local user's MR view, the remote instructor can guide and control the local user as if they were physically present. This allows the local user/surrogate to synchronize their hand movements and gestures with the remote instructor, effectively teleoperating a real human. We deploy and evaluate our system in classrooms of physiotherapy training, as well as other application domains such as mechanical assembly, sign language and cooking lessons. The study results confirm that our approach can increase engagement and the sense of co-presence, showing potential for the future of remote hands-on classrooms.</p>\n","dir":"content/output/projects","base":"chameleon-control.json","ext":".json","sourceBase":"chameleon-control.md","sourceExt":".md"};
 
 /***/ }),
 
@@ -404,10 +449,10 @@ module.exports = {"id":"tabby","name":"Tabby","description":"Explorable Design f
 /*!********************************************************!*\
   !*** ./content/output/projects/teachable-reality.json ***!
   \********************************************************/
-/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, doi, conference, pdf, video, embed, acm-dl, pageCount, slideCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
+/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, doi, conference, pdf, video, embed, arxiv, acm-dl, pageCount, slideCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
 /***/ (function(module) {
 
-module.exports = {"id":"teachable-reality","name":"Teachable Reality","description":"Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching","title":"Teachable Reality: Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching","authors":["Kyzyl Monteiro","Ritik Vatsal","Neil Chulpongsatorn","Aman Parnami","Ryo Suzuki"],"year":2023,"booktitle":"In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '23)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3544548.3581449","conference":{"name":"CHI 2023","fullname":"The ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)","url":"https://chi2023.acm.org/"},"pdf":"chi-2023-teachable-reality.pdf","video":"https://www.youtube.com/watch?v=JssiyfrhIJw","embed":"https://www.youtube.com/embed/JssiyfrhIJw","acm-dl":"https://dl.acm.org/doi/10.1145/3544548.3581449","pageCount":15,"slideCount":0,"bodyContent":"# Abstract\n\nThis paper introduces Teachable Reality, an augmented reality (AR) prototyping tool for creating interactive tangible AR applications with arbitrary everyday objects. Teachable Reality leverages vision-based interactive machine teaching (e.g., Teachable Machine), which captures real-world interactions for AR prototyping. It identifies the user-defined tangible and gestural interactions using an on-demand computer vision model. Based on this, the user can easily create functional AR prototypes without programming, enabled by a trigger-action authoring interface. Therefore, our approach allows the flexibility, customizability, and generalizability of tangible AR applications that can address the limitation of current marker-based approaches. We explore the design space and demonstrate various AR prototypes, which include tangible and deformable interfaces, context-aware assistants, and body-driven AR applications. The results of our user study and expert interviews confirm that our approach can lower the barrier to creating functional AR prototypes while also allowing flexible and general-purpose prototyping experiences.","bodyHtml":"<h1>Abstract</h1>\n<p>This paper introduces Teachable Reality, an augmented reality (AR) prototyping tool for creating interactive tangible AR applications with arbitrary everyday objects. Teachable Reality leverages vision-based interactive machine teaching (e.g., Teachable Machine), which captures real-world interactions for AR prototyping. It identifies the user-defined tangible and gestural interactions using an on-demand computer vision model. Based on this, the user can easily create functional AR prototypes without programming, enabled by a trigger-action authoring interface. Therefore, our approach allows the flexibility, customizability, and generalizability of tangible AR applications that can address the limitation of current marker-based approaches. We explore the design space and demonstrate various AR prototypes, which include tangible and deformable interfaces, context-aware assistants, and body-driven AR applications. The results of our user study and expert interviews confirm that our approach can lower the barrier to creating functional AR prototypes while also allowing flexible and general-purpose prototyping experiences.</p>\n","dir":"content/output/projects","base":"teachable-reality.json","ext":".json","sourceBase":"teachable-reality.md","sourceExt":".md"};
+module.exports = {"id":"teachable-reality","name":"Teachable Reality","description":"Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching","title":"Teachable Reality: Prototyping Tangible Augmented Reality with Everyday Objects by Leveraging Interactive Machine Teaching","authors":["Kyzyl Monteiro","Ritik Vatsal","Neil Chulpongsatorn","Aman Parnami","Ryo Suzuki"],"year":2023,"booktitle":"In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems (CHI '23)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3544548.3581449","conference":{"name":"CHI 2023","fullname":"The ACM CHI Conference on Human Factors in Computing Systems (CHI 2023)","url":"https://chi2023.acm.org/"},"pdf":"chi-2023-teachable-reality.pdf","video":"https://www.youtube.com/watch?v=JssiyfrhIJw","embed":"https://www.youtube.com/embed/JssiyfrhIJw","arxiv":"https://arxiv.org/abs/2302.11046","acm-dl":"https://dl.acm.org/doi/10.1145/3544548.3581449","pageCount":15,"slideCount":0,"bodyContent":"# Abstract\n\nThis paper introduces Teachable Reality, an augmented reality (AR) prototyping tool for creating interactive tangible AR applications with arbitrary everyday objects. Teachable Reality leverages vision-based interactive machine teaching (e.g., Teachable Machine), which captures real-world interactions for AR prototyping. It identifies the user-defined tangible and gestural interactions using an on-demand computer vision model. Based on this, the user can easily create functional AR prototypes without programming, enabled by a trigger-action authoring interface. Therefore, our approach allows the flexibility, customizability, and generalizability of tangible AR applications that can address the limitation of current marker-based approaches. We explore the design space and demonstrate various AR prototypes, which include tangible and deformable interfaces, context-aware assistants, and body-driven AR applications. The results of our user study and expert interviews confirm that our approach can lower the barrier to creating functional AR prototypes while also allowing flexible and general-purpose prototyping experiences.","bodyHtml":"<h1>Abstract</h1>\n<p>This paper introduces Teachable Reality, an augmented reality (AR) prototyping tool for creating interactive tangible AR applications with arbitrary everyday objects. Teachable Reality leverages vision-based interactive machine teaching (e.g., Teachable Machine), which captures real-world interactions for AR prototyping. It identifies the user-defined tangible and gestural interactions using an on-demand computer vision model. Based on this, the user can easily create functional AR prototypes without programming, enabled by a trigger-action authoring interface. Therefore, our approach allows the flexibility, customizability, and generalizability of tangible AR applications that can address the limitation of current marker-based approaches. We explore the design space and demonstrate various AR prototypes, which include tangible and deformable interfaces, context-aware assistants, and body-driven AR applications. The results of our user study and expert interviews confirm that our approach can lower the barrier to creating functional AR prototypes while also allowing flexible and general-purpose prototyping experiences.</p>\n","dir":"content/output/projects","base":"teachable-reality.json","ext":".json","sourceBase":"teachable-reality.md","sourceExt":".md"};
 
 /***/ }),
 
@@ -13090,9 +13135,11 @@ var _content_output_posters_json__WEBPACK_IMPORTED_MODULE_12___namespace = /*#__
 var _content_output_press_json__WEBPACK_IMPORTED_MODULE_13___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../content/output/press.json */ "./content/output/press.json", 1);
 /* harmony import */ var _profile__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./profile */ "./pages/profile.js");
 /* harmony import */ var _projects__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__(/*! ./projects */ "./pages/projects.js");
-/* harmony import */ var _students__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./students */ "./pages/students.js");
-/* harmony import */ var _experience__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./experience */ "./pages/experience.js");
-/* harmony import */ var _timeline__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./timeline */ "./pages/timeline.js");
+/* harmony import */ var _posters__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__(/*! ./posters */ "./pages/posters.js");
+/* harmony import */ var _students__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! ./students */ "./pages/students.js");
+/* harmony import */ var _experience__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! ./experience */ "./pages/experience.js");
+/* harmony import */ var _timeline__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! ./timeline */ "./pages/timeline.js");
+
 
 
 
@@ -13155,7 +13202,7 @@ function (_React$Component) {
         src: "/static/images/overview.jpg"
       }))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "container"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_students__WEBPACK_IMPORTED_MODULE_16__["default"], null)), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_students__WEBPACK_IMPORTED_MODULE_17__["default"], null)), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "container"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_projects__WEBPACK_IMPORTED_MODULE_15__["default"], null)), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "container"
@@ -13186,9 +13233,9 @@ function (_React$Component) {
         }
       }, "Dynamic Shape Construction and Transformation with Collective Elements")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("strong", null, "Ryo Suzuki"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "PhD Dissertation (University of Colorado Boulder)", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null)))))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "container"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_posters__WEBPACK_IMPORTED_MODULE_16__["default"], null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         id: "posters"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Posters and Demos"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Selected Posters and Demos"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui vertical segment"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui bulleted list"
@@ -13267,7 +13314,7 @@ function (_React$Component) {
         style: {
           marginTop: '50px'
         }
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_experience__WEBPACK_IMPORTED_MODULE_17__["default"], null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_timeline__WEBPACK_IMPORTED_MODULE_18__["default"], null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_experience__WEBPACK_IMPORTED_MODULE_18__["default"], null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_timeline__WEBPACK_IMPORTED_MODULE_19__["default"], null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         className: "twitter-timeline",
         height: "1500px",
         href: "https://twitter.com/ryosuzk?ref_src=twsrc%5Etfw"
@@ -13293,6 +13340,82 @@ function (_React$Component) {
 }(react__WEBPACK_IMPORTED_MODULE_5___default.a.Component);
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
+
+/***/ }),
+
+/***/ "./pages/posters.js":
+/*!**************************!*\
+  !*** ./pages/posters.js ***!
+  \**************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime-corejs2/helpers/esm/classCallCheck.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/createClass */ "./node_modules/@babel/runtime-corejs2/helpers/esm/createClass.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/possibleConstructorReturn */ "./node_modules/@babel/runtime-corejs2/helpers/esm/possibleConstructorReturn.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/getPrototypeOf */ "./node_modules/@babel/runtime-corejs2/helpers/esm/getPrototypeOf.js");
+/* harmony import */ var _babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/inherits */ "./node_modules/@babel/runtime-corejs2/helpers/esm/inherits.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var react_markdown__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-markdown */ "./node_modules/react-markdown/lib/react-markdown.js");
+/* harmony import */ var react_markdown__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(react_markdown__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _content_output_summary_json__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../content/output/summary.json */ "./content/output/summary.json");
+var _content_output_summary_json__WEBPACK_IMPORTED_MODULE_7___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../content/output/summary.json */ "./content/output/summary.json", 1);
+
+
+
+
+
+
+
+
+var ids = ['ultrabots'];
+var posters = [];
+
+for (var _i = 0, _ids = ids; _i < _ids.length; _i++) {
+  var id = _ids[_i];
+
+  var poster = __webpack_require__("./content/output/posters sync recursive ^\\.\\/.*\\.json$")("./".concat(id, ".json"));
+
+  posters.push(poster);
+}
+
+var Posters =
+/*#__PURE__*/
+function (_React$Component) {
+  Object(_babel_runtime_corejs2_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_4__["default"])(Posters, _React$Component);
+
+  function Posters() {
+    Object(_babel_runtime_corejs2_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__["default"])(this, Posters);
+
+    return Object(_babel_runtime_corejs2_helpers_esm_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_2__["default"])(this, Object(_babel_runtime_corejs2_helpers_esm_getPrototypeOf__WEBPACK_IMPORTED_MODULE_3__["default"])(Posters).apply(this, arguments));
+  }
+
+  Object(_babel_runtime_corejs2_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__["default"])(Posters, [{
+    key: "componentDidMount",
+    value: function componentDidMount() {}
+  }, {
+    key: "render",
+    value: function render() {
+      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        id: "posters"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Selected Posters and Demos"), posters.map(function (poster) {
+        return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+          className: "project ui vertical segment stackable grid",
+          "data-id": poster.id
+        }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+          className: "six wide column"
+        }, poster.id));
+      }));
+    }
+  }]);
+
+  return Posters;
+}(react__WEBPACK_IMPORTED_MODULE_5___default.a.Component);
+
+/* harmony default export */ __webpack_exports__["default"] = (Posters);
 
 /***/ }),
 
@@ -13753,7 +13876,13 @@ function (_React$Component) {
   }, {
     key: "getTitle",
     value: function getTitle(student) {
-      switch (student.type) {
+      var type = student.type;
+
+      if (type === 'alumni') {
+        type = student.past;
+      }
+
+      switch (type) {
         case 'postdoc':
           student.title = 'Postdoc';
           break;
@@ -13772,31 +13901,6 @@ function (_React$Component) {
 
         case 'visiting':
           student.title = 'Visiting';
-          break;
-
-        case 'alumni':
-          switch (student.past) {
-            case 'postdoc':
-              student.title = 'Alumni (PostDoc)';
-              break;
-
-            case 'phd':
-              student.title = 'Alumni (PhD)';
-              break;
-
-            case 'master':
-              student.title = 'Alumni (Master)';
-              break;
-
-            case 'undergrad':
-              student.title = 'Alumni (Undergrad)';
-              break;
-
-            case 'visiting':
-              student.title = 'Alumni (Visiting)';
-              break;
-          }
-
           break;
       }
 
@@ -13831,13 +13935,13 @@ function (_React$Component) {
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         id: "students"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Students"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Current Students"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui eight cards"
+        className: "ui ten cards"
       }, students.filter(function (student) {
         return student.type !== 'alumni';
       }).map(function (student) {
         return _this.renderStudent(student);
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Alumni"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui eight cards"
+        className: "ui ten cards"
       }, students.filter(function (student) {
         return student.type === 'alumni';
       }).map(function (student) {
