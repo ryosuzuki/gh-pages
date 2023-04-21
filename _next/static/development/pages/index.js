@@ -13194,7 +13194,7 @@ function (_React$Component) {
         className: "mission"
       }, "Designing ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
-      }, "Pervasive Dynamic Media"), " With the Power of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+      }, "Dynamic Pervasive Media"), " With the Power of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
       }, "AR"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
@@ -13230,7 +13230,7 @@ function (_React$Component) {
         className: "content"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
         className: "highlight"
-      }, "Pervapsive"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Pervasive"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
       }, "Should Work with Every Space, Object, and User, On-the-Fly and On-Demand"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
@@ -13250,7 +13250,17 @@ function (_React$Component) {
         className: "header"
       }, "Reinvent Languages for AR Era"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Dynamic pervasive media for reading, writing, presenting, discussing, and communicating ideas"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "We redsign \"languages\", including written, spoken, and visual languages, to empower human-to-human communication"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "labels"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "reading"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "presenting"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "writing"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "communicating")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -13262,7 +13272,17 @@ function (_React$Component) {
         className: "header"
       }, "Science Museums for Every Home"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Dynamic pervasive media for learning, understanding, exploring, and discovering concepts"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "We transform our everyday space into explorable environments where people can learn through tangible exploration just like science museums."), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "labels"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "learning"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "understanding"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "exploring"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "discovering")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -13270,11 +13290,21 @@ function (_React$Component) {
         class: "image"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         src: "/static/images/theme-3.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "World Canvas"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Dynamic World Canvas"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
       }, "Make the World a Dynamic Canvas"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Dynamic pervasive media for creating, sketching, expressing, authoring ideas"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "We unleash the creative expression and potential of computers beyond screens, as if the entire world becomes a dynamic and living canvas."), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "labels"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "sketching"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "expressing"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "authoring"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "creating")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -13282,11 +13312,21 @@ function (_React$Component) {
         class: "image"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         src: "/static/images/theme-4.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Responsive Environments"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Responsive Physical World"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
       }, "Respond Both Visually and Physically"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Dynamic pervasive media for touching, crafting, feeling, grasping, and manipulating objects"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Both visual and physical representations are equally important. We make environments responsive both visually and physically with AR and robotics"), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "labels"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "touching"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "crafting"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "feeling"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "manipulating")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -13298,7 +13338,17 @@ function (_React$Component) {
         className: "header"
       }, "Ambient and Context-Aware Intelligence"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Dynamic pervasive media for adapting, reminding, visualizing, and assisting behaviors")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
+      }, "We make dynamic media pervasive and ubiquitous with the power of AR and AI, disappearing them into the fabric of everyday life."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "labels"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "adapting"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "reminding"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "visualizing"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "assisting"))))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
         className: "ui horizontal divider header"
       }, "Projects"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui five cards"
@@ -13421,7 +13471,7 @@ function (_React$Component) {
         target: "_blank"
       }, "ShapeBots")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Swarm Robots as Media"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Swarm Robots as Dynamic Media"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "image"
@@ -13472,7 +13522,7 @@ function (_React$Component) {
         target: "_blank"
       }, "Dynablock")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "3D Printer as Media")))))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
+      }, "3D Printer as Dynamic Media")))))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "container"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_students__WEBPACK_IMPORTED_MODULE_17__["default"], null)), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("section", {
         className: "container"
