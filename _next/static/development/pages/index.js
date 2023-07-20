@@ -13243,17 +13243,19 @@ function (_React$Component) {
         className: "ui horizontal divider header"
       }, "Mission"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
         className: "mission"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+      }, "Augment ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
-      }, "Dynamic Space for Thought")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
-        className: "mission"
-      }, "Augment Human Thought and Creativity", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "with the Power of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+      }, "Human Thought"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+        className: "highlight"
+      }, "Creativity"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "with the Power of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
       }, "AR"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
-      }, "AI")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+      }, "AI")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "by Transforming the Everyday Environment into a ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+        className: "highlight"
+      }, "Dynamic Space for Thought")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
         className: "description"
-      }, "Computers are dynamic media. Much like writing systems, the printing press and painting canvases, they empower and amplify human thought and creativity. This medium, however, is currently confined within the boundaries of flat rectangular screens, restricting our minds and creative potential to what can be done in this small space. Our goal is to redesign this medium to unlock the full potential of human capabilities, by transforming our world itself into a computational medium with the power of AR and AI."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
+      }, "Computers are dynamic media. Much like writing systems, the printing press, and painting canvases, they empower and amplify human thought and creativity. This medium, however, is currently confined within the boundaries of flat rectangular screens, restricting our minds and creative potential to what can be done in this small space. Our goal is to redesign this medium to unlock the full potential of human capabilities, by transforming our world itself into a computational medium with the power of AR and AI."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
         className: "ui horizontal divider header"
       }, "Principles"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui three stackable cards"
@@ -14535,7 +14537,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fryosuzuki%2FDocuments%2Fryosuzuki%2Fhomepage%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************************/
@@ -14558,5 +14560,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js","styles"]]]);
+},[[1,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map
