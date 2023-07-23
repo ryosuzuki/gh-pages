@@ -13236,26 +13236,23 @@ function (_React$Component) {
         className: "container"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         id: "vision"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "From ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://en.wikipedia.org/wiki/Tools_for_Thought",
-        target: "_blank"
-      }, "Tools for Thought")), " to ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Space for Thought")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "From ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Tools for Thought"), " to ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Space for Thought")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
         className: "ui horizontal divider header"
       }, "Mission"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
+        style: {
+          marginBottom: '0px'
+        }
+      }, "Transforming Every Single Environment into a"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", {
         className: "mission"
-      }, "Augment ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
-      }, "Human Thought"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
-        className: "highlight"
-      }, "Creativity"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "with the Power of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
+      }, "Dynamic Space for Thought"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "with the Power of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
       }, "AR"), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
         className: "highlight"
-      }, "AI")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "by Transforming the Everyday Environment into a ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("span", {
-        className: "highlight"
-      }, "Dynamic Space for Thought")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
+      }, "AI")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", {
         className: "description"
-      }, "Computers are dynamic media. Much like writing systems, the printing press, and painting canvases, they empower and amplify human thought and creativity. This medium, however, is currently confined within the boundaries of flat rectangular screens, restricting our minds and creative potential to what can be done in this small space. Our goal is to redesign this medium to unlock the full potential of human capabilities, by transforming our world itself into a computational medium with the power of AR and AI."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
+      }, "Computers are dynamic media. Much like writing systems, the printing press and painting canvases, they empower and amplify human thought and creativity. This medium, however, is currently confined within the boundaries of flat rectangular screens, restricting our minds and creative potential to what can be done in this small space. Our goal is to redesign this medium to unlock the full potential of human capabilities, by transforming our world itself into a computational medium with the power of AR and AI."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
         className: "ui horizontal divider header"
       }, "Principles"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui three stackable cards"
@@ -13267,7 +13264,7 @@ function (_React$Component) {
         className: "highlight"
       }, "Blended"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
-      }, "Should Work with Real, Tangible Objects in the Real World, not Virtual Objects on Screens or in VR"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Should Work with Real, Tangible Objects in the Real World, not Virtual Objects on Screens or VR"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
       }, "Humans have developed tangible and spatial abilities. Media should leverage these innate human capabilities, instead of requiring humans to adapt to media\u2019s capabilities."))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
@@ -13287,7 +13284,7 @@ function (_React$Component) {
         className: "highlight"
       }, "Pervasive"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
-      }, "Should Work with Every Single Space, Object, and Environment, On-the-Fly and On-Demand"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Should Work with Every Space, Object, and User, On-the-Fly and On-Demand"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
       }, "Tangible user interfaces exist over decades, but only in research labs. It is time to make them accessible, adaptable, and deployable to everywhere for everyone with the power of AI.")))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h2", {
         className: "ui horizontal divider header"
@@ -13412,91 +13409,6 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "image"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-augmented-math.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "UIST 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/augmented-math",
-        target: "_blank"
-      }, "Augmented Math")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "AI-Enabled Augmented Textbook"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-realitycanvas.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "UIST 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/realitycanvas",
-        target: "_blank"
-      }, "RealityCanvas")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "Dynamic Sketch in AR"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-holobots.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "UIST 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/holobots",
-        target: "_blank"
-      }, "HoloBots")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "Tangible Holoportation"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-teachable-reality.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "CHI 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/teachable-reality",
-        target: "_blank"
-      }, "Teachable Reality")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "AI-Enabled Tangible AR Prototype"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-chameleon-control.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "CHI 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/chameleon-control",
-        target: "_blank"
-      }, "ChameleonControl")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "Human Teleoperation"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         src: "/static/images/project-realitytalk.jpg"
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -13510,57 +13422,6 @@ function (_React$Component) {
       }, "RealityTalk")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
       }, "Augmented Presentation"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-sketched-reality.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "UIST 2022"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/sketched-reality",
-        target: "_blank"
-      }, "Sketched Reality")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "AR Sketch for Robots"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-shapebots-3.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "CHI 2022"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://ilab.ucalgary.ca/ar-and-robotics/",
-        target: "_blank"
-      }, "AR and Robotics")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "A Survey and Taxonomy"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "card"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        class: "image"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-hapticbots.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "content"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "ui tiny label"
-      }, "UIST 2021"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "header"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "/hapticbots",
-        target: "_blank"
-      }, "HapticBots")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: "description"
-      }, "On-Demand Haptics"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "image"
@@ -13582,6 +13443,23 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "image"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
+        src: "/static/images/project-sketched-reality.jpg"
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "content"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "UIST 2022"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "header"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/sketched-reality",
+        target: "_blank"
+      }, "Sketched Reality")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "description"
+      }, "AR Sketch for Robots"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "card"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        class: "image"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         src: "/static/images/project-roomshift.jpg"
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -13599,7 +13477,41 @@ function (_React$Component) {
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "image"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
-        src: "/static/images/project-shapebots.jpg"
+        src: "/static/images/project-teachable-reality.jpg"
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "content"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "CHI 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "header"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/teachable-reality",
+        target: "_blank"
+      }, "Teachable Reality")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "description"
+      }, "Tangible AR Everywhere"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "card"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        class: "image"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
+        src: "/static/images/project-chameleon-control.jpg"
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "content"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "CHI 2023"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "header"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/chameleon-control",
+        target: "_blank"
+      }, "ChameleonControl")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "description"
+      }, "Human Teleoperation"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "card"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        class: "image"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
+        src: "/static/images/project-shapebots-3.jpg"
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
@@ -13628,7 +13540,24 @@ function (_React$Component) {
         target: "_blank"
       }, "Reactile")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "Sketch to Program Swarm Robots"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Sketch to Program"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "card"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        class: "image"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
+        src: "/static/images/project-hapticbots.jpg"
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "content"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "ui tiny label"
+      }, "UIST 2021"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "header"
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "/hapticbots",
+        target: "_blank"
+      }, "HapticBots")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        className: "description"
+      }, "On-Demand Haptics"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "card"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "image"
@@ -14537,7 +14466,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fryosuzuki%2FDocuments%2Fryosuzuki%2Fhomepage%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************************/
@@ -14560,5 +14489,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map
