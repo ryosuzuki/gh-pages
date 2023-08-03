@@ -13303,7 +13303,7 @@ function (_React$Component) {
         src: "/static/images/theme-1.jpg"
       })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Augmented Languages"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
-      }, "Reinvent Languages for AR Era"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Reinvent Languages for Spatial Computing Era"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
       }, "We redsign \"languages\", including written, spoken, and visual languages, to empower human-to-human communication"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "labels"
@@ -13345,11 +13345,11 @@ function (_React$Component) {
         class: "image"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
         src: "/static/images/theme-3.jpg"
-      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Dynamic World Canvas"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "Generative AR"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "header"
-      }, "Make the World a Dynamic Canvas"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "Make the World a Dynamic Canvas for Generative AI"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "description"
-      }, "We unleash the creative expression and potential of computers beyond screens, as if the entire world becomes a dynamic and living canvas."), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, "We unleash the creative potential of Generative AI beyond screens, as if the entire world becomes a dynamic and living canvas."), "\u2015 Dynamic Media for \u2015", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "labels"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui tiny label"
