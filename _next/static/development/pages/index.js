@@ -14427,7 +14427,7 @@ var _iteratorError = undefined;
 try {
   for (var _iterator = _babel_runtime_corejs2_core_js_get_iterator__WEBPACK_IMPORTED_MODULE_0___default()(_content_output_students_json__WEBPACK_IMPORTED_MODULE_8__), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
     var student = _step.value;
-    student.photo = "https://raw.githubusercontent.com/ucalgary-ilab/ilab-website/master/static/images/people/".concat(student.id, ".jpg");
+    student.photo = "https://raw.githubusercontent.com/ryosuzuki/homepage/master/static/students/".concat(student.id, ".jpg");
   }
 } catch (err) {
   _didIteratorError = true;
