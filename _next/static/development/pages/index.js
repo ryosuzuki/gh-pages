@@ -7,7 +7,7 @@
 /*! exports provided: bodyContent, bodyHtml, title, dir, base, ext, sourceBase, sourceExt, default */
 /***/ (function(module) {
 
-module.exports = {"bodyContent":"**Program Committee**: CHI 2022-2025, UIST 2022-2024, ISMAR 2021-2023, VRST 2021-2022, TEI 2021-2023, DIS 2024, GI 2020\n\n**Journal Editorial Board**: ACM Transactions of Human-Robot Interaction, Frontiers in Virtual Reality Haptics\n\n**Organizer:** UIST 2022 (Student Innovation Contest Chair), UIST 2021 (Student Innovation Contest Chair), CHI 2021 (Social Media Chair), CHI 2021 (Student Research Competition Jury), UIST 2016 (Web and Social Media Chair),\n\n**Review:** CHI 2016--2022, UIST 2017--2022, IMSUT 2020--2021, ISS 2021, ISMAR 2020--2022, VRST 2020--2022, CSCW 2021, TOCHI 2020--2021, PACM 2021, DIS 2021, C&C 2021, IEEE VR 2020, VL/HCC 2020, SCF 2019, SIGGRAPH ETech 2019--2021, GI 2020\n\n**Student Volunteer:** UIST 2016, CHI 2017","bodyHtml":"<p><strong>Program Committee</strong>: CHI 2022-2025, UIST 2022-2024, ISMAR 2021-2023, VRST 2021-2022, TEI 2021-2023, DIS 2024, GI 2020</p>\n<p><strong>Journal Editorial Board</strong>: ACM Transactions of Human-Robot Interaction, Frontiers in Virtual Reality Haptics</p>\n<p><strong>Organizer:</strong> UIST 2022 (Student Innovation Contest Chair), UIST 2021 (Student Innovation Contest Chair), CHI 2021 (Social Media Chair), CHI 2021 (Student Research Competition Jury), UIST 2016 (Web and Social Media Chair),</p>\n<p><strong>Review:</strong> CHI 2016--2022, UIST 2017--2022, IMSUT 2020--2021, ISS 2021, ISMAR 2020--2022, VRST 2020--2022, CSCW 2021, TOCHI 2020--2021, PACM 2021, DIS 2021, C&amp;C 2021, IEEE VR 2020, VL/HCC 2020, SCF 2019, SIGGRAPH ETech 2019--2021, GI 2020</p>\n<p><strong>Student Volunteer:</strong> UIST 2016, CHI 2017</p>\n","title":"<strong>Program Committee","dir":"content/output","base":"activities.json","ext":".json","sourceBase":"activities.md","sourceExt":".md"};
+module.exports = {"bodyContent":"**Program Committee**: CHI 2023, UIST 2022, ISMAR 2022, VRST 2022, CHI 2022, TEI 2022, UIST 2021, ISMAR 2021, VRST 2021, TEI 2021, GI 2020\n\n**Journal Editorial Board**: ACM Transactions of Human-Robot Interaction, Frontiers in Virtual Reality Haptics\n\n**Organizer:** UIST 2022 (Student Innovation Contest Chair), UIST 2021 (Student Innovation Contest Chair), CHI 2021 (Social Media Chair), CHI 2021 (Student Research Competition Jury), UIST 2016 (Web and Social Media Chair),\n\n**Review:** CHI 2016--2022, UIST 2017--2022, IMSUT 2020--2021, ISS 2021, ISMAR 2020--2022, VRST 2020--2022, CSCW 2021, TOCHI 2020--2021, PACM 2021, DIS 2021, C&C 2021, IEEE VR 2020, VL/HCC 2020, SCF 2019, SIGGRAPH ETech 2019--2021, GI 2020\n\n**Student Volunteer:** UIST 2016, CHI 2017","bodyHtml":"<p><strong>Program Committee</strong>: CHI 2023, UIST 2022, ISMAR 2022, VRST 2022, CHI 2022, TEI 2022, UIST 2021, ISMAR 2021, VRST 2021, TEI 2021, GI 2020</p>\n<p><strong>Journal Editorial Board</strong>: ACM Transactions of Human-Robot Interaction, Frontiers in Virtual Reality Haptics</p>\n<p><strong>Organizer:</strong> UIST 2022 (Student Innovation Contest Chair), UIST 2021 (Student Innovation Contest Chair), CHI 2021 (Social Media Chair), CHI 2021 (Student Research Competition Jury), UIST 2016 (Web and Social Media Chair),</p>\n<p><strong>Review:</strong> CHI 2016--2022, UIST 2017--2022, IMSUT 2020--2021, ISS 2021, ISMAR 2020--2022, VRST 2020--2022, CSCW 2021, TOCHI 2020--2021, PACM 2021, DIS 2021, C&amp;C 2021, IEEE VR 2020, VL/HCC 2020, SCF 2019, SIGGRAPH ETech 2019--2021, GI 2020</p>\n<p><strong>Student Volunteer:</strong> UIST 2016, CHI 2017</p>\n","title":"<strong>Program Committee","dir":"content/output","base":"activities.json","ext":".json","sourceBase":"activities.md","sourceExt":".md"};
 
 /***/ }),
 
@@ -15,10 +15,10 @@ module.exports = {"bodyContent":"**Program Committee**: CHI 2022-2025, UIST 2022
 /*!****************************************!*\
   !*** ./content/output/experience.json ***!
   \****************************************/
-/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, default */
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, default */
 /***/ (function(module) {
 
-module.exports = [{"period":"August, 2024 --- Current","role":"Assistant Professor","logo":"cu-boulder.png","institute":{"name":"CU Boulder","url":"https://colorado.edu"},"lab":{"name":"ATLAS institute","url":"https://www.colorado.edu/atlas/"},"advisors":[{"name":"Programmable Reality Lab","url":"http://leithinger.com/"}]},{"period":"January, 2021 --- August, 2024","role":"Assistant Professor","logo":"ucalgary.png","institute":{"name":"University of Calgary","url":"https://www.ucalgary.ca/"},"lab":{"name":"Computer Science","url":"https://science.ucalgary.ca/computer-science"},"advisors":[{"name":"Interactions Lab","url":"https://ilab.ucalgary.ca/"}]},{"period":"October, 2023 --- Current","role":"Visiting Professor","logo":"tohoku.png","institute":{"name":"Tohoku University","url":"https://arvr.google.com/"},"lab":{"name":"Cyber & Real Center","url":"https://www.cr-ict.riec.tohoku.ac.jp/"}},{"period":"July, 2023 --- May, 2024","role":"Visiting Researcher","logo":"google.png","institute":{"name":"Google","url":"https://arvr.google.com/"},"lab":{"name":"BIRD Lab","url":"https://margonzalezfranco.github.io/"}},{"period":"August, 2015 --- August, 2020","role":"Research Assistant","logo":"cu-boulder.png","institute":{"name":"CU Boulder","url":"https://colorado.edu"},"lab":{"name":"THING Lab","url":"https://www.colorado.edu/atlas/thing-lab"},"advisors":[{"name":"Daniel Leithinger","url":"http://leithinger.com/"},{"name":"Mark D. Gross","url":"http://mdgross.net/"},{"name":"Tom Yeh","url":"http://tomyeh.info/"}]},{"period":"May, 2020 --- August, 2020","role":"Research Intern","logo":"microsoft.png","institute":{"name":"Microsoft Research","url":"https://www.microsoft.com/en-us/research/"},"lab":{"name":"EPIC Group","url":"https://www.microsoft.com/en-us/research/group/epic/"},"advisors":[{"name":"Mar Gonzalez Franco","url":"https://www.microsoft.com/en-us/research/people/margon/"},{"name":"Eyal Ofek","url":"https://www.microsoft.com/en-us/research/people/eyalofek/"},{"name":"Mike Sinclair","url":"https://www.microsoft.com/en-us/research/people/sinclair/"},{"name":"Ken Hinckley","url":"https://www.microsoft.com/en-us/research/people/kenh/"}]},{"period":"May, 2019 --- August, 2019","role":"Research Intern","logo":"adobe.png","institute":{"name":"Adobe Research","url":"https://colorado.edu"},"lab":{"name":"Creative Intelligence Lab","url":"https://research.adobe.com/"},"advisors":[{"name":"Rubaiat Habib","url":"https://rubaiathabib.me/"},{"name":"Li-Yi Wei","url":"https://www.liyiwei.org/"},{"name":"Stephen Diverdi","url":"http://www.stephendiverdi.com/"},{"name":"Danny Kaufman","url":"http://dannykaufman.io/"}]},{"period":"December, 2017 --- October, 2018","role":"Visiting Researcher","logo":"ut.png","institute":{"name":"University of Tokyo","url":"https://colorado.edu"},"lab":{"name":"ERATO UIN","url":"http://www.jst.go.jp/erato/kawahara"},"advisors":[{"name":"Yasuaki Kakehi","url":"http://xlab.iii.u-tokyo.ac.jp/"},{"name":"Yoshihiro Kawahara","url":"http://www.akg.t.u-tokyo.ac.jp/"},{"name":"Ryuma Niiyama","url":"https://scholar.google.co.jp/citations?user=0NMf5sgAAAAJ&hl=en"}]},{"period":"May, 2016 --- August, 2016","role":"Research Intern","logo":"uc-berkeley.png","institute":{"name":"UC Berkeley","url":null},"lab":{"name":"BiD Lab","url":"http://bid.berkeley.edu/"},"advisors":[{"name":"Bjoern Hartmann","url":"http://people.eecs.berkeley.edu/~bjoern/"}]},{"period":"May, 2015 --- August, 2015","role":"Research Intern","logo":"stanford-2.png","institute":{"name":"Stanford University","url":"https://stanford.edu"},"lab":{"name":"HCI Group","url":"http://hci.stanford.edu/"},"advisors":[{"name":"Michael Bernstein","url":"http://hci.stanford.edu/msb/"}]},{"period":"October, 2014 --- May, 2015","role":"Research Assistant","logo":"ut.png","institute":{"name":"University of Tokyo","url":null},"lab":{"name":"IIS Lab","url":"http://iis-lab.org/"},"advisors":[{"name":"Koji Yatani","url":"http://iis-lab.org/member/koji-yatani/"}]},{"period":"December, 2014 --- March, 2015","role":"Research Intern","logo":"aist.png","institute":{"name":"AIST","url":null},"lab":{"name":"Media Interaction","url":"https://staff.aist.go.jp/m.goto/MIG/index-j.html"},"advisors":[{"name":"Jun Kato","url":"http://junkato.jp/"}]}];
+module.exports = [{"period":"January, 2021 --- Current","role":"Assistant Professor","logo":"ucalgary.png","institute":{"name":"University of Calgary","url":"https://www.ucalgary.ca/"},"lab":{"name":"HCI Group","url":"https://ilab.cpsc.ucalgary.ca/"},"advisors":[{"name":"Computer Science","url":"https://science.ucalgary.ca/computer-science"}]},{"period":"July, 2023 --- Current","role":"Visiting Researcher","logo":"google.png","institute":{"name":"Google","url":"https://arvr.google.com/"},"lab":{"name":"BIRD Lab","url":"https://margonzalezfranco.github.io/"}},{"period":"October, 2023 --- Current","role":"Visiting Professor","logo":"tohoku.png","institute":{"name":"Tohoku University","url":"https://arvr.google.com/"},"lab":{"name":"Cyber & Real Center","url":"https://www.cr-ict.riec.tohoku.ac.jp/"}},{"period":"August, 2015 --- August, 2020","role":"Research Assistant","logo":"cu-boulder.png","institute":{"name":"CU Boulder","url":"https://colorado.edu"},"lab":{"name":"THING Lab","url":"https://www.colorado.edu/atlas/thing-lab"},"advisors":[{"name":"Daniel Leithinger","url":"http://leithinger.com/"},{"name":"Mark D. Gross","url":"http://mdgross.net/"},{"name":"Tom Yeh","url":"http://tomyeh.info/"}]},{"period":"May, 2020 --- August, 2020","role":"Research Intern","logo":"microsoft.png","institute":{"name":"Microsoft Research","url":"https://www.microsoft.com/en-us/research/"},"lab":{"name":"EPIC Group","url":"https://www.microsoft.com/en-us/research/group/epic/"},"advisors":[{"name":"Mar Gonzalez Franco","url":"https://www.microsoft.com/en-us/research/people/margon/"},{"name":"Eyal Ofek","url":"https://www.microsoft.com/en-us/research/people/eyalofek/"},{"name":"Mike Sinclair","url":"https://www.microsoft.com/en-us/research/people/sinclair/"},{"name":"Ken Hinckley","url":"https://www.microsoft.com/en-us/research/people/kenh/"}]},{"period":"May, 2019 --- August, 2019","role":"Research Intern","logo":"adobe.png","institute":{"name":"Adobe Research","url":"https://colorado.edu"},"lab":{"name":"Creative Intelligence Lab","url":"https://research.adobe.com/"},"advisors":[{"name":"Rubaiat Habib","url":"https://rubaiathabib.me/"},{"name":"Li-Yi Wei","url":"https://www.liyiwei.org/"},{"name":"Stephen Diverdi","url":"http://www.stephendiverdi.com/"},{"name":"Danny Kaufman","url":"http://dannykaufman.io/"}]},{"period":"December, 2017 --- October, 2018","role":"Visiting Researcher","logo":"ut.png","institute":{"name":"University of Tokyo","url":"https://colorado.edu"},"lab":{"name":"ERATO UIN","url":"http://www.jst.go.jp/erato/kawahara"},"advisors":[{"name":"Yasuaki Kakehi","url":"http://xlab.iii.u-tokyo.ac.jp/"},{"name":"Yoshihiro Kawahara","url":"http://www.akg.t.u-tokyo.ac.jp/"},{"name":"Ryuma Niiyama","url":"https://scholar.google.co.jp/citations?user=0NMf5sgAAAAJ&hl=en"}]},{"period":"May, 2016 --- August, 2016","role":"Research Intern","logo":"uc-berkeley.png","institute":{"name":"UC Berkeley","url":null},"lab":{"name":"BiD Lab","url":"http://bid.berkeley.edu/"},"advisors":[{"name":"Bjoern Hartmann","url":"http://people.eecs.berkeley.edu/~bjoern/"}]},{"period":"May, 2015 --- August, 2015","role":"Research Intern","logo":"stanford-2.png","institute":{"name":"Stanford University","url":"https://stanford.edu"},"lab":{"name":"HCI Group","url":"http://hci.stanford.edu/"},"advisors":[{"name":"Michael Bernstein","url":"http://hci.stanford.edu/msb/"}]},{"period":"October, 2014 --- May, 2015","role":"Research Assistant","logo":"ut.png","institute":{"name":"University of Tokyo","url":null},"lab":{"name":"IIS Lab","url":"http://iis-lab.org/"},"advisors":[{"name":"Koji Yatani","url":"http://iis-lab.org/member/koji-yatani/"}]},{"period":"December, 2014 --- March, 2015","role":"Research Intern","logo":"aist.png","institute":{"name":"AIST","url":null},"lab":{"name":"Media Interaction","url":"https://staff.aist.go.jp/m.goto/MIG/index-j.html"},"advisors":[{"name":"Jun Kato","url":"http://junkato.jp/"}]}];
 
 /***/ }),
 
@@ -122,7 +122,6 @@ var map = {
 	"./ar-and-robotics.json": "./content/output/projects/ar-and-robotics.json",
 	"./atelier.json": "./content/output/projects/atelier.json",
 	"./augmented-math.json": "./content/output/projects/augmented-math.json",
-	"./augmented-physics.json": "./content/output/projects/augmented-physics.json",
 	"./chameleon-control.json": "./content/output/projects/chameleon-control.json",
 	"./collagevis.json": "./content/output/projects/collagevis.json",
 	"./dynablock.json": "./content/output/projects/dynablock.json",
@@ -148,7 +147,6 @@ var map = {
 	"./robovisar.json": "./content/output/projects/robovisar.json",
 	"./roomshift.json": "./content/output/projects/roomshift.json",
 	"./selective-self-assembly.json": "./content/output/projects/selective-self-assembly.json",
-	"./shape-it.json": "./content/output/projects/shape-it.json",
 	"./shapebots.json": "./content/output/projects/shapebots.json",
 	"./sketched-reality.json": "./content/output/projects/sketched-reality.json",
 	"./tabby.json": "./content/output/projects/tabby.json",
@@ -210,17 +208,6 @@ module.exports = {"id":"atelier","name":"Atelier","description":"Repurposing Exp
 /***/ (function(module) {
 
 module.exports = {"id":"augmented-math","name":"Augmented Math","description":"Authoring AR-Based Explorable Explanations by Augmenting Static Math Textbooks","title":"Augmented Math: Authoring AR-Based Explorable Explanations by Augmenting Static Math Textbooks","authors":["Neil Chulpongsatorn","Mille Skovhus Lunding","Nishan Soni","Ryo Suzuki"],"year":2023,"booktitle":"In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3586183.3606827","conference":{"name":"UIST 2023","fullname":"The ACM Symposium on User Interface Software and Technology (UIST 2023)","url":"http://uist.acm.org/uist2023"},"pdf":"uist-2023-augmented-math.pdf","video":"https://www.youtube.com/watch?v=Zv6JQ5T-qn0","embed":"https://www.youtube.com/embed/Zv6JQ5T-qn0","arxiv":"https://arxiv.org/abs/2307.16112","acm-dl":"https://dl.acm.org/doi/10.1145/3586183.3606827","pageCount":16,"bodyContent":"# Abstract\n\nWe introduce Augmented Math, a machine learning-based approach to authoring AR explorable explanations by augmenting static math textbooks without programming. To augment a static document, our system first extracts mathematical formulas and figures from a given document using optical character recognition (OCR) and computer vision. By binding and manipulating these extracted contents, the user can see the interactive animation overlaid onto the document through mobile AR interfaces. This empowers non-technical users, such as teachers or students, to transform existing math textbooks and handouts into on-demand and personalized explorable explanations. To design our system, we first analyzed existing explorable math explanations to identify common design strategies. Based on the findings, we developed a set of augmentation techniques that can be automatically generated based on the extracted content, which are 1) dynamic values, 2) interactive figures, 3) relationship highlights, 4) concrete examples, and 5) step-by-step hints. To evaluate our system, we conduct two user studies: preliminary user testing and expert interviews. The study results confirm that our system allows more engaging experiences for learning math concepts.","bodyHtml":"<h1>Abstract</h1>\n<p>We introduce Augmented Math, a machine learning-based approach to authoring AR explorable explanations by augmenting static math textbooks without programming. To augment a static document, our system first extracts mathematical formulas and figures from a given document using optical character recognition (OCR) and computer vision. By binding and manipulating these extracted contents, the user can see the interactive animation overlaid onto the document through mobile AR interfaces. This empowers non-technical users, such as teachers or students, to transform existing math textbooks and handouts into on-demand and personalized explorable explanations. To design our system, we first analyzed existing explorable math explanations to identify common design strategies. Based on the findings, we developed a set of augmentation techniques that can be automatically generated based on the extracted content, which are 1) dynamic values, 2) interactive figures, 3) relationship highlights, 4) concrete examples, and 5) step-by-step hints. To evaluate our system, we conduct two user studies: preliminary user testing and expert interviews. The study results confirm that our system allows more engaging experiences for learning math concepts.</p>\n","dir":"content/output/projects","base":"augmented-math.json","ext":".json","sourceBase":"augmented-math.md","sourceExt":".md"};
-
-/***/ }),
-
-/***/ "./content/output/projects/augmented-physics.json":
-/*!********************************************************!*\
-  !*** ./content/output/projects/augmented-physics.json ***!
-  \********************************************************/
-/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, doi, conference, pdf, arxiv, acm-dl, pageCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
-/***/ (function(module) {
-
-module.exports = {"id":"augmented-physics","name":"Augmented Physics","description":"Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams","title":"Augmented Physics: Creating Interactive and Embedded Physics Simulations from Static Textbook Diagrams","authors":["Aditya Gunturu","Yi Wen","Nandi Zhang","Jarin Thundathil","Rubaiat Habib Kazi","Ryo Suzuki"],"year":2024,"booktitle":"In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '24)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3654777.3676392","conference":{"name":"UIST 2024","fullname":"The ACM Symposium on User Interface Software and Technology (UIST 2024)","url":"http://uist.acm.org/uist2024"},"pdf":"uist-2024-augmented-physics.pdf","arxiv":"https://arxiv.org/abs/2405.18614","acm-dl":"https://doi.org/10.1145/3654777.3676392","pageCount":0,"bodyContent":"# Abstract\n\nWe introduce Augmented Physics, a machine learning-integrated authoring tool designed for creating embedded interactive physics simulations from static textbook diagrams. Leveraging recent advancements in computer vision, such as Segment Anything and Multi-modal LLMs, our web-based system enables users to semi-automatically extract diagrams from physics textbooks and generate interactive simulations based on the extracted content. These interactive diagrams are seamlessly integrated into scanned textbook pages, facilitating interactive and personalized learning experiences across various physics concepts, such as optics, circuits, and kinematics. Drawing from an elicitation study with seven physics instructors, we explore four key augmentation strategies: 1) augmented experiments, 2) animated diagrams, 3) bi-directional binding, and 4) parameter visualization. We evaluate our system through technical evaluation, a usability study (N=12), and expert interviews (N=12). Study findings suggest that our system can facilitate more engaging and personalized learning experiences in physics education.","bodyHtml":"<h1>Abstract</h1>\n<p>We introduce Augmented Physics, a machine learning-integrated authoring tool designed for creating embedded interactive physics simulations from static textbook diagrams. Leveraging recent advancements in computer vision, such as Segment Anything and Multi-modal LLMs, our web-based system enables users to semi-automatically extract diagrams from physics textbooks and generate interactive simulations based on the extracted content. These interactive diagrams are seamlessly integrated into scanned textbook pages, facilitating interactive and personalized learning experiences across various physics concepts, such as optics, circuits, and kinematics. Drawing from an elicitation study with seven physics instructors, we explore four key augmentation strategies: 1) augmented experiments, 2) animated diagrams, 3) bi-directional binding, and 4) parameter visualization. We evaluate our system through technical evaluation, a usability study (N=12), and expert interviews (N=12). Study findings suggest that our system can facilitate more engaging and personalized learning experiences in physics education.</p>\n","dir":"content/output/projects","base":"augmented-physics.json","ext":".json","sourceBase":"augmented-physics.md","sourceExt":".md"};
 
 /***/ }),
 
@@ -499,17 +486,6 @@ module.exports = {"id":"selective-self-assembly","name":"Selective Self-Assembly
 
 /***/ }),
 
-/***/ "./content/output/projects/shape-it.json":
-/*!***********************************************!*\
-  !*** ./content/output/projects/shape-it.json ***!
-  \***********************************************/
-/*! exports provided: id, name, description, title, authors, year, booktitle, publisher, doi, conference, pdf, acm-dl, pageCount, bodyContent, bodyHtml, dir, base, ext, sourceBase, sourceExt, default */
-/***/ (function(module) {
-
-module.exports = {"id":"shape-it","name":"SHAPE-IT","description":"Exploring Text-to-Shape-Display for Generative Shape-Changing Behaviors with LLMs","title":"SHAPE-IT: Exploring Text-to-Shape-Display for Generative Shape-Changing Behaviors with LLMs","authors":["Wanli Qian","Chenfeng Gao","Nandi Zhang","Anup Sathya","Ryo Suzuki","Ken Nakagaki"],"year":2024,"booktitle":"In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST '24)","publisher":"ACM, New York, NY, USA","doi":"https://doi.org/10.1145/3654777.3676348","conference":{"name":"UIST 2024","fullname":"The ACM Symposium on User Interface Software and Technology (UIST 2024)","url":"http://uist.acm.org/uist2024"},"pdf":"uist-2024-shape-it.pdf","acm-dl":"https://doi.org/10.1145/3654777.3676348","pageCount":0,"bodyContent":"# Abstract\n\nWe introduce Augmented Physics, a machine learning-integrated authoring tool designed for creating embedded interactive physics simulations from static textbook diagrams. Leveraging recent advancements in computer vision, such as Segment Anything and Multi-modal LLMs, our web-based system enables users to semi-automatically extract diagrams from physics textbooks and generate interactive simulations based on the extracted content. These interactive diagrams are seamlessly integrated into scanned textbook pages, facilitating interactive and personalized learning experiences across various physics concepts, such as optics, circuits, and kinematics. Drawing from an elicitation study with seven physics instructors, we explore four key augmentation strategies: 1) augmented experiments, 2) animated diagrams, 3) bi-directional binding, and 4) parameter visualization. We evaluate our system through technical evaluation, a usability study (N=12), and expert interviews (N=12). Study findings suggest that our system can facilitate more engaging and personalized learning experiences in physics education.","bodyHtml":"<h1>Abstract</h1>\n<p>We introduce Augmented Physics, a machine learning-integrated authoring tool designed for creating embedded interactive physics simulations from static textbook diagrams. Leveraging recent advancements in computer vision, such as Segment Anything and Multi-modal LLMs, our web-based system enables users to semi-automatically extract diagrams from physics textbooks and generate interactive simulations based on the extracted content. These interactive diagrams are seamlessly integrated into scanned textbook pages, facilitating interactive and personalized learning experiences across various physics concepts, such as optics, circuits, and kinematics. Drawing from an elicitation study with seven physics instructors, we explore four key augmentation strategies: 1) augmented experiments, 2) animated diagrams, 3) bi-directional binding, and 4) parameter visualization. We evaluate our system through technical evaluation, a usability study (N=12), and expert interviews (N=12). Study findings suggest that our system can facilitate more engaging and personalized learning experiences in physics education.</p>\n","dir":"content/output/projects","base":"shape-it.json","ext":".json","sourceBase":"shape-it.md","sourceExt":".md"};
-
-/***/ }),
-
 /***/ "./content/output/projects/shapebots.json":
 /*!************************************************!*\
   !*** ./content/output/projects/shapebots.json ***!
@@ -591,10 +567,10 @@ module.exports = [{"author":"Ryo Suzuki, Jun Kato, Mark D. Gross, Tom Yeh","titl
 /*!**************************************!*\
   !*** ./content/output/students.json ***!
   \**************************************/
-/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, default */
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, default */
 /***/ (function(module) {
 
-module.exports = [{"id":"mehrad-faridan","name":"Mehrad Faridan","type":"undergrad","now":"UCalgary"},{"id":"jarin-thundathil","name":"Jarin Thundathil","type":"undergrad","now":"UCalgary"},{"id":"keiichi-ihara","name":"Keiichi Ihara","type":"intern","now":"Tsukuba"},{"id":"ryota-gomi","name":"Ryota Gomi","type":"intern","now":"Tohoku"},{"id":"freya-wen","name":"Freya Wen","type":"intern","now":"Texas A&M","photo":"https://cyberwenyi2357.github.io/static/media/photo.9bcc48ea7728e92c0ce2.jpg","url":"https://cyberwenyi2357.github.io/"},{"id":"neil-chulpongsatorn","name":"Neil Chulpongsatorn","type":"master","now":"UCalgary"},{"id":"marcus-friedel","name":"Marcus Friedel","type":"master","now":"UCalgary"},{"id":"shivesh-jadon","name":"Shivesh Jadon","past":"master","type":"alumni","now":"Apple"},{"id":"kyzyl-monteiro","name":"Kyzyl Monteiro","type":"alumni","past":"intern","now":"CMU HCII"},{"id":"adnan-karim","name":"Adnan Karim","past":"master","type":"alumni","now":"Attabotics"},{"id":"mille-skovhus-lunding","name":"Mille Skovhus Lunding","type":"alumni","past":"intern","now":"Aarhus"},{"id":"rasmus-lunding","name":"Rasmus Lunding","type":"alumni","past":"intern","now":"Aarhus"},{"id":"hiroki-kaimoto","name":"Hiroki Kaimoto","type":"alumni","past":"intern","now":"UTokyo"},{"id":"jian-liao","name":"Jian Liao","past":"undergrad","type":"alumni","now":"Startup"},{"id":"zhijie-xia","name":"Zhijie Xia","past":"undergrad","type":"alumni","now":"Startup"},{"id":"shrivatsa-mishra","name":"Shrivatsa Mishra","past":"intern","type":"alumni","now":"CU Boulder"},{"id":"ritik-vatsal","name":"Ritik Vatsal","past":"intern","type":"alumni","now":"UBC"}];
+module.exports = [{"id":"aditya-gunturu","name":"Aditya Gunturu","type":"master","now":"UCalgary"},{"id":"nandi-zhang","name":"Nandi Zhang","type":"master","now":"UCalgary"},{"id":"mehrad-faridan","name":"Mehrad Faridan","type":"undergrad","now":"UCalgary"},{"id":"jarin-thundathil","name":"Jarin Thundathil","type":"undergrad","now":"UCalgary"},{"id":"keiichi-ihara","name":"Keiichi Ihara","type":"intern","now":"Tsukuba"},{"id":"ryota-gomi","name":"Ryota Gomi","type":"intern","now":"Tohoku"},{"id":"neil-chulpongsatorn","name":"Neil Chulpongsatorn","type":"master","now":"UCalgary"},{"id":"marcus-friedel","name":"Marcus Friedel","type":"master","now":"UCalgary"},{"id":"shivesh-jadon","name":"Shivesh Jadon","past":"master","type":"alumni","now":"Apple"},{"id":"kyzyl-monteiro","name":"Kyzyl Monteiro","type":"alumni","past":"intern","now":"CMU HCII"},{"id":"adnan-karim","name":"Adnan Karim","past":"master","type":"alumni","now":"Attabotics"},{"id":"mille-skovhus-lunding","name":"Mille Skovhus Lunding","type":"alumni","past":"intern","now":"Aarhus"},{"id":"rasmus-lunding","name":"Rasmus Lunding","type":"alumni","past":"intern","now":"Aarhus"},{"id":"hiroki-kaimoto","name":"Hiroki Kaimoto","type":"alumni","past":"intern","now":"UTokyo"},{"id":"jian-liao","name":"Jian Liao","past":"undergrad","type":"alumni","now":"Startup"},{"id":"zhijie-xia","name":"Zhijie Xia","past":"undergrad","type":"alumni","now":"Startup"}];
 
 /***/ }),
 
@@ -13268,7 +13244,7 @@ function (_React$Component) {
           style: {
             padding: '20px 0'
           }
-        }, i == 0 && react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Current Affiliation"), i == 1 && react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Previous Affiliation"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+        }, i == 0 && react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Current Affiliation"), i == 3 && react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h3", null, "Previous Affiliation"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
           className: "ui mini image"
         }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("img", {
           src: "/static/images/".concat(item.logo)
@@ -13394,7 +13370,7 @@ function (_React$Component) {
   }, {
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("title", null, "Ryo Suzuki | University of Colorado Boulder Assistant Professor"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("title", null, "Ryo Suzuki | University of Calgary Assistant Professor"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "ui stackable grid"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "one wide column"
@@ -14125,7 +14101,7 @@ function (_React$Component) {
           maxWidth: '62px',
           marginRight: '15px'
         },
-        src: "/static/images/profile.jpg",
+        src: "/static/images/profile.png",
         className: "ui circular image"
       }), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "content"
@@ -14134,7 +14110,7 @@ function (_React$Component) {
         style: {
           fontSize: '1.5rem'
         }
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Colorado Boulder"), ", Assistant Professor of ATLAS and Computer Science"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("video", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Calgary"), ", Assistant Professor in Computer Science"))), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("video", {
         id: "top-video",
         poster: "/static/posters/top.png",
         preload: "metadata",
@@ -14152,18 +14128,15 @@ function (_React$Component) {
           fontSize: '1.3rem'
         }
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "I am an Assistant Professor at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://www.colorado.edu/",
+        href: "https://ucalgary.ca",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Colorado Boulder")), " in the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://www.colorado.edu/atlas/",
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Calgary")), " in the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://science.ucalgary.ca/computer-science",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "ATLAS Institute")), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://www.colorado.edu/cs/",
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Department of Computer Science")), ". I am part of ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://ilab.cpsc.ucalgary.ca/",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Department of Computer Science")), "."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "My research interest lies on the intersection at ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction (HCI)"), ". I direct ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://www.colorado.edu/atlas/programmable-reality-lab",
-        target: "_blank"
-      }, "Programmable Reality Lab")), " at the University of Calgary, where we try to blend digital and physical worlds by exploring novel interactions for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "AR/VR, Tangible UI, and AI"), "."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "HCI Group")), " at UCalgary."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         class: "ui segment",
         style: {
           borderColor: '#191970'
@@ -14173,13 +14146,13 @@ function (_React$Component) {
           marginBottom: '-5px',
           color: '#191970'
         }
-      }, "I am looking for prospective ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "PhD students"), " across disciplines, including computer science, industrial design, mechanical engineering, material science, electrical engineering, and architectural design. If you are interested, please feel free to send me an email.")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Previously, I was an Assistant Professor at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
-        href: "https://ucalgary.ca/",
+      }, "I am actively looking for prospective ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "PhD students, PostDocs, or Student Interns"), ", who are interested in joining or collaborating with us, across disciplines (e.g., Industrial Design, Mechanical Engineering, Material Science, Electrical Engineering, Architectural Design, and Computer Science). If you are interested, please feel free to send me an email. We could start from some possible collaborative projects. :)")), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "My research interest lies on the intersection at ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Human-Computer Interaction (HCI)"), ". I direct ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+        href: "https://programmable-reality-lab.github.io/",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Unviersity of Calgary")), ". Before that I was a PhD student at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, "Programmable Reality Lab")), " at the University of Calgary, where we try to blend digital and physical worlds by exploring novel interactions for ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "AR/VR, Tangible UI, and AI"), "."), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("p", null, "Previously, I was a PhD student at the ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "https://www.colorado.edu/cs/",
         target: "_blank"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "CU Boulder")), ", advised by ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "University of Colorado Boulder")), ", advised by ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
         href: "http://leithinger.com/",
         target: "_blank"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("b", null, "Daniel Leithinger")), " and ", react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("a", {
@@ -14317,7 +14290,7 @@ var _content_output_summary_json__WEBPACK_IMPORTED_MODULE_7___namespace = /*#__P
 
 
 
-var ids = ['augmented-physics', 'shape-it', 'inflatablebots', 'collagevis', 'thermopixels', 'robovisar', 'augmented-math', 'realitycanvas', 'holobots', 'physica', 'teachable-reality', 'chameleon-control', 'sketched-reality', 'realitytalk', 'mixels', 'selective-self-assembly', 'ar-and-robotics', 'expandable-robots', 'electro-voxel', 'hapticbots', 'realitysketch', 'pufferbot', 'roomshift', 'lift-tiles', 'shapebots', 'morphio', 'dynablock', 'tabby', 'reactile', 'pep', 'flux-marker', 'trace-diff', 'mixed-initiative', 'refazer', 'atelier'];
+var ids = ['inflatablebots', 'collagevis', 'thermopixels', 'robovisar', 'augmented-math', 'realitycanvas', 'holobots', 'physica', 'teachable-reality', 'chameleon-control', 'sketched-reality', 'realitytalk', 'mixels', 'selective-self-assembly', 'ar-and-robotics', 'expandable-robots', 'electro-voxel', 'hapticbots', 'realitysketch', 'pufferbot', 'roomshift', 'lift-tiles', 'shapebots', 'morphio', 'dynablock', 'tabby', 'reactile', 'pep', 'flux-marker', 'trace-diff', 'mixed-initiative', 'refazer', 'atelier'];
 var projects = [];
 
 for (var _i = 0, _ids = ids; _i < _ids.length; _i++) {
@@ -14461,14 +14434,17 @@ const names = [
   'neil-chulpongsatorn',
   'marcus-friedel',
   'adnan-karim',
+  'aditya-gunturu',
   'mehrad-faridan',
   'jian-liao',
   'zhijie-xia',
+  'nishan-soni',
   'bheesha-kumari',
   'jarin-thundathil',
   'kevin-van',
   'melissa-hoang',
   'abhinav-pillai',
+  'keiichi-ihara',
   'mille-skovhus-lunding',
   'rasmus-lunding',
   'ryota-gomi',
@@ -14490,7 +14466,6 @@ for (let name of names) {
   let student = summary.fileMap[`content/output/people/${name}.json`]
   student.id = name
   student.photo = `https://raw.githubusercontent.com/ucalgary-ilab/ilab-website/master/static/images/people/${name}.jpg`
-  student.url = `https://ilab.ucalgary.ca/people/${student.id}`
   students.push(student)
 }
 */
@@ -14502,14 +14477,7 @@ var _iteratorError = undefined;
 try {
   for (var _iterator = _babel_runtime_corejs2_core_js_get_iterator__WEBPACK_IMPORTED_MODULE_0___default()(_content_output_students_json__WEBPACK_IMPORTED_MODULE_8__), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
     var student = _step.value;
-
-    if (!student.photo) {
-      student.photo = "https://raw.githubusercontent.com/ryosuzuki/homepage/master/static/students/".concat(student.id, ".jpg");
-    }
-
-    if (!student.url) {
-      student.url = "https://ilab.ucalgary.ca/people/".concat(student.id);
-    }
+    student.photo = "https://raw.githubusercontent.com/ryosuzuki/homepage/master/static/students/".concat(student.id, ".jpg");
   }
 } catch (err) {
   _didIteratorError = true;
@@ -14525,32 +14493,6 @@ try {
     }
   }
 }
-
-var current = [{
-  id: 'hye-young-jo',
-  name: 'Hye-Young Jo',
-  photo: 'https://static.wixstatic.com/media/9e9fd8_421f3f1efc0842c8a9cd6801d334dc94~mv2.jpg',
-  title: 'PhD Student',
-  url: 'https://www.hyeyoungjo.com/'
-}, {
-  id: 'keiichi-ihara',
-  name: 'Keiichi Ihara',
-  photo: 'https://www.iplab.cs.tsukuba.ac.jp/~kihara/img/face.jpg',
-  title: 'PhD Student',
-  url: 'https://www.iplab.cs.tsukuba.ac.jp/~kihara/'
-}, {
-  id: 'aditya-gunturu',
-  name: 'Aditya Gunturu',
-  photo: 'https://adigunturu.com/img/ProfilePic2.png',
-  title: 'Master Student',
-  url: 'https://adigunturu.com/'
-}, {
-  id: 'nandi-zhang',
-  name: 'Nandi Zhang',
-  photo: 'https://media.licdn.com/dms/image/v2/D5603AQHKSlVa4_fMrA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1711348357683?e=1730332800&v=beta&t=wT6rhelX8Ny5H53a0BD5PbprNFowHb8HRBj7GoIy8e8',
-  title: 'Master Student',
-  url: 'https://scholar.google.ca/citations?user=zvPQR94AAAAJ&hl=en'
-}];
 
 var Students =
 /*#__PURE__*/
@@ -14666,7 +14608,7 @@ function (_React$Component) {
       student = this.getTitle(student);
       return react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("a", {
         className: "card",
-        href: student.url,
+        href: "https://ilab.ucalgary.ca/people/".concat(student.id),
         target: "_blank"
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
         className: "center aligned"
@@ -14692,14 +14634,14 @@ function (_React$Component) {
         id: "students"
       }, react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h1", null, "Students"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", null, "Current Students"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
         className: "ui ten cards"
-      }, current.filter(function (student) {
-        return student;
+      }, _content_output_students_json__WEBPACK_IMPORTED_MODULE_8__.filter(function (student) {
+        return student.type !== 'alumni';
       }).map(function (student) {
         return _this.renderStudent(student);
-      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", null, "Alumni"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
+      })), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("h3", null, "Selected Alumni"), react__WEBPACK_IMPORTED_MODULE_6___default.a.createElement("div", {
         className: "ui ten cards"
       }, _content_output_students_json__WEBPACK_IMPORTED_MODULE_8__.filter(function (student) {
-        return student;
+        return student.type === 'alumni';
       }).map(function (student) {
         return _this.renderStudent(student);
       })));
@@ -14805,7 +14747,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fryosuzuki%2FDocuments%2Fryosuzuki%2Fhomepage%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************************/
@@ -14828,5 +14770,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js","styles"]]]);
+},[[1,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map
